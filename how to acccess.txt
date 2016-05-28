@@ -1,0 +1,11 @@
+halaman admin: localhost/sikata/backend/web/index.php?r=site/start
+
+username: 7770800001 password: kucing
+
+halaman non admin: http://localhost/sikata/frontend/web/index.php?r=site/start
+
+siswa: usename: 1153080002 password: kucing
+
+binglas: usename: 8800800001 password: kucing
+
+korset 2: usename: 7800800001 password: kucing
